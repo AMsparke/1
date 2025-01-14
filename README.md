@@ -2,8 +2,8 @@
 <html>
   <head>
     <title> Hello <\title>
-      <\head>
+  <\head>
       <body>
         <h1> Body of the page <\h1>
-          <\body>
+       <\body>
 </html>
